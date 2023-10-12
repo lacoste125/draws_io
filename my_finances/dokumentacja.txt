@@ -2,3 +2,6 @@ TO DO:
 1. API do tworzenia nowego roku (rok i miesące - full config)
 2. Api do zestawienia sumy opłat dla danej kategorii
 3. Rozkminić jak zaimplementować "Cel" dla kategorii - w sensie np jak coś na raty to ile zapłacono (np. 1500zł z 3000zł = 50%)
+
+
+// to delete - test
